@@ -37,6 +37,19 @@ let games =
 			{"name": "rasetsumaru", "main": true, "imageSets": ["samshovsp","samshovspr"]},
 			{"name": "shizumaru", "main": true, "imageSets": ["samshovsp","samshovspr"]},
 		]
+	},
+	{
+		"custom": false,
+		"name": "mfg",
+		"imageSets": [
+			{"folder": "mfg", "name": "Screenshots"},
+			{"folder": "mfgr", "name": "Renders"}
+		],
+		"characters": [
+			{"name": "mfdrip", "main": true, "imageSets": ["samshovsp","samshovspr"]},
+			{"name": "mfdad", "main": true, "imageSets": ["samshovsp","samshovspr"]},
+
+		]
 	}
 ];
 
