@@ -46,9 +46,14 @@ let games =
 			{"folder": "mfgr", "name": "Renders"}
 		],
 		"characters": [
-			{"name": "mfdrip", "main": true, "imageSets": ["samshovsp","samshovspr"]},
-			{"name": "mfdad", "main": true, "imageSets": ["samshovsp","samshovspr"]},
-
+			{"name": "mfdrip", "main": true, "imageSets": ["mfg","mfgr"]},
+			{"name": "mfdad", "main": true, "imageSets": ["mfg","mfgr"]},
+			{"name": "mfesport", "main": true, "imageSets": ["mfg","mfgr"]},
+			{"name": "mfexposed", "main": true, "imageSets": ["mfg","mfgr"]},
+			{"name": "mfhasbeen", "main": true, "imageSets": ["mfg","mfgr"]},
+			{"name": "mfshibuya", "main": true, "imageSets": ["mfg","mfgr"]},
+			{"name": "mfyung", "main": true, "imageSets": ["mfg","mfgr"]},
+			{"name": "mfnacer", "main": true, "imageSets": ["mfg","mfgr"]},			
 		]
 	}
 ];
