@@ -146,8 +146,8 @@ img {
 
 .character {
 	display:inline-block;
-	height: 64px;
-	width: 64px;
+	height: 132px;
+	width: 147px;
 	background-position: center;
 	background-size: cover;
 }
